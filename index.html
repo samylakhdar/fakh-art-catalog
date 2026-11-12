@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="كتالوج FAKH-ART الرسمي لبيع الأواني الفخارية التقليدية بالجملة.">
+  <title>FAKH-ART | كتالوج الجملة</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Announcement Bar -->
+  <div class="top-bar">
+    <p>🔥 كتالوج البيع بالجملة الرسمي — أسعار خاصة للتجار والمحلات 🔥</p>
+  </div>
+
+  <!-- Header -->
+  <header class="site-header">
+    <div class="header-container">
+      <a class="brand" href="#home">
+        <img src="images/logo.png" alt="FAKH-ART Logo" class="brand-logo">
+        <div class="brand-text">
+          <span class="brand-name">FAKH-ART</span>
+          <span class="brand-sub">فخار جزائري تقليدي</span>
+        </div>
+      </a>
+
+      <nav class="main-nav">
+        <a href="#home">الرئيسية</a>
+        <a href="#catalog">الكتالوج</a>
+        <a href="#contact">التواصل والجملة</a>
+      </nav>
+
+      <div class="header-actions">
+        <a href="https://wa.me/213541420166" class="btn-whatsapp-top" target="_blank" rel="noreferrer">
+          طلب جملة مباشر
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero-section" id="home">
+    <div class="hero-content">
+      <span class="badge">Wholesale Catalog</span>
+      <h1>الأصالة في كل قطعة <span>من ورشتنا إلى تجارتكم — جودة التراث العريق بأسعار الجملة</span></h1>
+      <p>تصفحوا تشكيلتنا الفاخرة من الأواني الفخارية التقليدية لأجل تجارتكم.</p>
+      <a href="#catalog" class="btn-primary">تصفح المنتجات وأسعار الجملة</a>
+    </div>
+  </section>
+
+  <!-- Catalog Section -->
+  <main class="catalog-container" id="catalog">
+    <div class="section-title">
+      <h2>كتالوج الجملة والأسعار</h2>
+      <p>تصفحوا القطع، المقاسات، والأسعار الخاصة بالجملة.</p>
+    </div>
+
+    <!-- Search & Filters -->
+    <div class="filter-bar">
+      <input type="search" id="productSearch" placeholder="ابحث عن قطعة (طاجين، مارميت...)" class="search-input">
+      <div id="categoryFilters" class="category-tabs"></div>
+    </div>
+
+    <!-- Product Grid -->
+    <div id="productGrid" class="product-grid"></div>
+    <div id="emptyState" class="empty-state" hidden>لم نجد أي منتج يطابق بحثك.</div>
+  </main>
+
+  <!-- Footer / Contact Section -->
+  <footer class="site-footer" id="contact">
+    <div class="footer-container">
+      <div class="footer-brand-info">
+        <h3>FAKH-ART</h3>
+        <p>متخصصون في صناعة وتوفير الأواني الفخارية الجزائرية التقليدية جملة وتجزئة.</p>
+        <p class="location-text">📍 الجزائر العاصمة، درارية</p>
+      </div>
+
+      <div class="footer-contact">
+        <h4>معلومات الطلب بالجملة</h4>
+        <p class="phone-num">📞 الهاتف / واتساب: <strong>0541420166</strong></p>
+        <p class="note">ملاحظة: السعر بالجملة والحد الأدنى للطلب يُحددان مباشرة عند التواصل.</p>
+      </div>
+
+      <div class="footer-socials">
+        <h4>تابعونا على مواقع التواصل</h4>
+        <div id="socialLinks" class="social-grid">
+          <a href="https://instagram.com/fakhart_16" class="social-item" target="_blank" rel="noreferrer">Instagram: @fakhart_16</a>
+          <a href="https://tiktok.com/@fakhart16" class="social-item" target="_blank" rel="noreferrer">TikTok: @fakhart16</a>
+          <a href="https://facebook.com/Fakh.art" class="social-item" target="_blank" rel="noreferrer">Facebook: Fakh.art</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <p>© 2026 FAKH-ART — جميع الحقوق محفوظة.</p>
+    </div>
+  </footer>
+
+  <script src="products.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
