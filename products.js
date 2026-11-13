@@ -22,7 +22,7 @@ window.FAKH_ART_DATA = {
       specs: "القطر: 30 سم",
       price: 1300,
       category: "tajines",
-      images: ["images/tajine-30-closed.jpg", "images/tajine-30-open.jpg"]
+      images: ["tajine-30-closed.jpg", "tajine-30-open.jpg"]
     },
     {
       id: "tajine-25",
@@ -30,7 +30,7 @@ window.FAKH_ART_DATA = {
       specs: "القطر: 25 سم",
       price: 1000,
       category: "tajines",
-      images: ["images/tajine-25-closed.jpg", "images/tajine-25-open.jpg"]
+      images: ["tajine-25-closed.jpg", "tajine-25-open.jpg"]
     },
     {
       id: "fait-tout-4l",
@@ -38,7 +38,7 @@ window.FAKH_ART_DATA = {
       specs: "السعة: 4 لتر",
       price: 1250,
       category: "marmites",
-      images: ["images/fait-tout-4l-closed.jpg", "images/fait-tout-4l-open.jpg"]
+      images: ["fait-tout-4l-closed.jpg", "fait-tout-4l-open.jpg"]
     },
     {
       id: "marmite-4l",
@@ -46,7 +46,7 @@ window.FAKH_ART_DATA = {
       specs: "السعة: 4 لتر",
       price: 1250,
       category: "marmites",
-      images: ["images/marmite-4l-closed.jpg", "images/marmite-4l-open.jpg"]
+      images: ["marmite-4l-closed.jpg", "marmite-4l-open.jpg"]
     },
     {
       id: "fait-tout-2l",
@@ -54,7 +54,7 @@ window.FAKH_ART_DATA = {
       specs: "السعة: 2 لتر",
       price: 900,
       category: "marmites",
-      images: ["images/fait-tout-2l.jpg"]
+      images: ["fait-tout-2l.jpg"]
     },
     {
       id: "marmite-2l",
@@ -62,7 +62,7 @@ window.FAKH_ART_DATA = {
       specs: "السعة: 2 لتر",
       price: 900,
       category: "marmites",
-      images: ["images/marmite-2l-closed.jpg", "images/marmite-2l-open.jpg"]
+      images: ["marmite-2l-closed.jpg", "marmite-2l-open.jpg"]
     },
     {
       id: "cocotte-22",
@@ -70,7 +70,7 @@ window.FAKH_ART_DATA = {
       specs: "القطر: 22 سم",
       price: 950,
       category: "cocotte",
-      images: ["images/cocotte-22.jpg"]
+      images: ["cocotte-22.jpg"]
     },
     {
       id: "cocotte-25",
@@ -78,7 +78,7 @@ window.FAKH_ART_DATA = {
       specs: "القطر: 25 سم",
       price: 1200,
       category: "cocotte",
-      images: ["images/cocotte-25.jpg"]
+      images: ["cocotte-25.jpg"]
     },
     {
       id: "cocotte-28",
@@ -86,7 +86,7 @@ window.FAKH_ART_DATA = {
       specs: "القطر: 28 سم",
       price: 1400,
       category: "cocotte",
-      images: ["images/cocotte-28.jpg"]
+      images: ["cocotte-28.jpg"]
     },
     {
       id: "plat-four-28",
@@ -94,7 +94,7 @@ window.FAKH_ART_DATA = {
       specs: "القطر: 28 سم",
       price: 900,
       category: "others",
-      images: ["images/plat-four-28.jpg"]
+      images: ["plat-four-28.jpg"]
     }
   ]
 };
