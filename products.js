@@ -21,7 +21,7 @@ window.FAKH_ART_DATA = {
       id: "tajine-30",
       title: "طاجين فخار تقليدي",
       specs: "القطر: 30 سم",
-      price: 1300,
+      price: 900,
       category: "tajines",
       images: ["tajine-30-closed.jpg", "tajine-30-open.jpg"]
     },
@@ -29,7 +29,7 @@ window.FAKH_ART_DATA = {
       id: "tajine-25",
       title: "طاجين فخار تقليدي",
       specs: "القطر: 25 سم",
-      price: 1000,
+      price: 700,
       category: "tajines",
       images: ["tajine-25-closed.jpg", "tajine-25-open.jpg"]
     },
@@ -37,7 +37,7 @@ window.FAKH_ART_DATA = {
       id: "fait-tout-4l",
       title: "فايت تو (Fait-tout)",
       specs: "السعة: 4 لتر",
-      price: 1250,
+      price: 850,
       category: "marmites",
       images: ["fait-tout-4l-closed.jpg", "fait-tout-4l-open.jpg"]
     },
@@ -45,7 +45,7 @@ window.FAKH_ART_DATA = {
       id: "marmite-4l",
       title: "مارميت فخار",
       specs: "السعة: 4 لتر",
-      price: 1250,
+      price: 850,
       category: "marmites",
       images: ["marmite-4l-closed.jpg", "marmite-4l-open.jpg"]
     },
@@ -53,7 +53,7 @@ window.FAKH_ART_DATA = {
       id: "fait-tout-2l",
       title: "فايت تو (Fait-tout)",
       specs: "السعة: 2 لتر",
-      price: 900,
+      price: 550,
       category: "marmites",
       images: ["fait-tout-2l.jpg"]
     },
@@ -61,7 +61,7 @@ window.FAKH_ART_DATA = {
       id: "marmite-2l",
       title: "مارميت فخار",
       specs: "السعة: 2 لتر",
-      price: 900,
+      price: 550,
       category: "marmites",
       images: ["marmite-2l-closed.jpg", "marmite-2l-open.jpg"]
     },
@@ -69,7 +69,7 @@ window.FAKH_ART_DATA = {
       id: "cocotte-22",
       title: "كوكوت فخار",
       specs: "القطر: 22 سم",
-      price: 950,
+      price: 600,
       category: "cocotte",
       images: ["cocotte-22.jpg"]
     },
@@ -77,7 +77,7 @@ window.FAKH_ART_DATA = {
       id: "cocotte-25",
       title: "كوكوت فخار",
       specs: "القطر: 25 سم",
-      price: 1200,
+      price: 700,
       category: "cocotte",
       images: ["cocotte-25.jpg"]
     },
@@ -85,7 +85,7 @@ window.FAKH_ART_DATA = {
       id: "cocotte-28",
       title: "كوكوت فخار",
       specs: "القطر: 28 سم",
-      price: 1400,
+      price: 900,
       category: "cocotte",
       images: ["cocotte-28.jpg"]
     },
@@ -93,7 +93,7 @@ window.FAKH_ART_DATA = {
       id: "plat-four-28",
       title: "طبق فرن (Plat Four)",
       specs: "القطر: 28 سم",
-      price: 900,
+      price: 600,
       category: "others",
       images: ["plat-four-28.jpg"]
     }
