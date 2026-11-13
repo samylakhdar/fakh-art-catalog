@@ -1,6 +1,6 @@
 window.FAKH_ART_DATA = {
   storePhone: "0541420166",
-  storeLogo: "Logo.png",
+  storeLogo: "logo.png",
   
   socials: [
     { name: "Instagram: @fakhart_16", url: "https://instagram.com/fakhart_16" },
